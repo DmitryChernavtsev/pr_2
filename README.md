@@ -1,1 +1,1 @@
-![Test Status](https://github.com/DmitryChernavtsev/pr_2.git/ci_project/actions/workflows/ci.yml/badge.svg)
+![Test Status](https://github.com/DmitryChernavtsev/pr_2.git/actions/workflows/ci.yml/badge.svg)
